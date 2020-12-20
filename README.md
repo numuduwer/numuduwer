@@ -22,6 +22,7 @@ Why라는 고민과 배우는 것을 좋아하고 헌재 개발자 구직 활동
 
 ![](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-ED8B00?style=plastic&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696?style=plastic&logo=Spring&logoColor=white
 )  ![Oracle](https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red?style=plastic&logo=Oracle&logoColor=white
-)  ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)  ![PYTHON](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Django&logoColor=white)
+)   
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)  ![PYTHON](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Django&logoColor=white)
 
 
